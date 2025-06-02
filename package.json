@@ -40,7 +40,7 @@
     "gulp-watch": "4.3.11",
     "gulp-wrap": "0.13.0",
     "jasmine-core": "2.2.0",
-    "karma": "0.13.10",
+    "karma": "0.13.22",
     "karma-chrome-launcher": "0.2.2",
     "karma-coffee-preprocessor": "0.3.0",
     "karma-jasmine": "0.3.6",
